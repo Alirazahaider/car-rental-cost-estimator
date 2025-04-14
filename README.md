@@ -4,7 +4,7 @@ A clean, modern calculator for estimating car rental costs. Pick dates, location
 
 ![Car Rental Cost Estimator Screenshot](./public/screenshot.png)
 
-Live Demo: [personal-budget-calculator.vercel.app](https://personal-budget-calculator.vercel.app/)
+Live Demo: [car-rental-cost-estimator.vercel.app](https://car-rental-cost-estimator.vercel.app/)
 
 ---
 
