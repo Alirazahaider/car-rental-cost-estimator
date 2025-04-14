@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+  @apply antialiased text-gray-800;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-blue-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-blue-300 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-blue-400;
+}
+
+/* Date picker customization */
+.react-datepicker {
+  @apply border-gray-200 shadow-lg font-sans;
+}
+
+.react-datepicker__header {
+  @apply bg-blue-50 border-b border-gray-200;
+}
+
+.react-datepicker__current-month,
+.react-datepicker__day-name {
+  @apply text-blue-800;
+}
+
+.react-datepicker__day--selected {
+  @apply bg-blue-600 text-white;
+}
+
+.react-datepicker__day--keyboard-selected {
+  @apply bg-blue-100 text-blue-800;
+}
+
+.react-datepicker__day:hover {
+  @apply bg-blue-100;
+}
+
+/* Leaflet map fixes */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.leaflet-control-attribution {
+  font-size: 9px;
+}
+
+.leaflet-popup-content {
+  margin: 8px 12px;
+}
+
+.leaflet-popup-content p {
+  margin: 0;
+}
