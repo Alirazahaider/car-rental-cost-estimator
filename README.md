@@ -22,7 +22,7 @@ Live Demo: [car-rental-cost-estimator.vercel.app](https://car-rental-cost-estima
 - **Framework:** [Next.js](https://nextjs.org/)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Animations:** [Animations](https://www.framer.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
 
 ---
