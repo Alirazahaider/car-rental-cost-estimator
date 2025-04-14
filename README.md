@@ -34,7 +34,7 @@ git clone https://github.com/Alirazahaider/car-rental-cost-estimator
 ```
 
 ```bash
-cd web-dev-portfolio
+cd car-rental-calculator
 ```
 
 ```bash
