@@ -30,7 +30,7 @@ Live Demo: [car-rental-cost-estimator.vercel.app](https://car-rental-cost-estima
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Alirazahaider/web-dev-portfolio
+git clone https://github.com/Alirazahaider/car-rental-cost-estimator
 ```
 
 ```bash
